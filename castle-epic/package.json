@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "localtunnel": "^2.0.2",
     "typescript": "~5.8.3",
     "vite": "^7.1.0",
     "vite-plugin-glsl": "^1.5.1"
